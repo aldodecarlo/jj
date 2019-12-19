@@ -7601,7 +7601,7 @@ div[class^='bg-black'] .sidebar-box .tags li a:hover, div[class^='bg-black'] .si
 .navbar-shrink.navbar-absolute .list-horizontal li a,
 .navbar-shrink.navbar-absolute .list-horizontal-unstyled li a,
 .navbar-shrink.navbar-absolute .list-horizontal-dash li a {
-  color: #141414;
+  color: #ffffff;
 }
 
 .navbar-shrink.navbar-absolute .list-horizontal li a:hover,
@@ -7611,11 +7611,11 @@ div[class^='bg-black'] .sidebar-box .tags li a:hover, div[class^='bg-black'] .si
 }
 
 .navbar-shrink.navbar-absolute, .navbar-shrink.navbar-absolute-dark {
-  background: #fff;
+  background: #c1b0a9;
 }
 
 .navbar-shrink.navbar-absolute .navbar-brand, .navbar-shrink.navbar-absolute h1, .navbar-shrink.navbar-absolute h2, .navbar-shrink.navbar-absolute h3, .navbar-shrink.navbar-absolute h4, .navbar-shrink.navbar-absolute h5, .navbar-shrink.navbar-absolute h6, .navbar-shrink.navbar-absolute-dark .navbar-brand, .navbar-shrink.navbar-absolute-dark h1, .navbar-shrink.navbar-absolute-dark h2, .navbar-shrink.navbar-absolute-dark h3, .navbar-shrink.navbar-absolute-dark h4, .navbar-shrink.navbar-absolute-dark h5, .navbar-shrink.navbar-absolute-dark h6 {
-  color: #141414;
+  color: #ffffff;
 }
 
 @media (min-width: 992px) {
@@ -8690,10 +8690,10 @@ div[class^='bg-black'] .filter.filter-style-4 ul li.active, div[class*=' bg-blac
 }
 
 .portfolio-item .portfolio-box:hover .portfolio-img img {
-  -webkit-transform: scale(1.03);
-  transform: scale(1.03);
-  -webkit-filter: blur(1.5px);
-  filter: blur(1.5px);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
 }
 
 .portfolio-item .portfolio-box:hover .portfolio-title {
@@ -8854,7 +8854,7 @@ div[class^='bg-black'] .filter.filter-style-4 ul li.active, div[class*=' bg-blac
 
 .hover-style-5 .portfolio-item .portfolio-box .portfolio-title {
   background: rgba(255, 255, 255, 0.1);
-  color: #646464;
+  color: #ffffff;
 }
 
 .hover-style-5 .portfolio-item .portfolio-box .portfolio-title:after {
@@ -8864,9 +8864,10 @@ div[class^='bg-black'] .filter.filter-style-4 ul li.active, div[class*=' bg-blac
   right: 20px;
   bottom: 20px;
   left: 20px;
+  opacity: 0.7;
   -webkit-transform: translateY(5px);
   transform: translateY(5px);
-  background: #fff;
+  background: #e0cac1;
   -webkit-transition: ease-out 0.2s;
   transition: ease-out 0.2s;
 }
@@ -8887,7 +8888,7 @@ div[class^='bg-black'] .filter.filter-style-4 ul li.active, div[class*=' bg-blac
 }
 
 .hover-style-5 .portfolio-item .portfolio-box .portfolio-title div h1, .hover-style-5 .portfolio-item .portfolio-box .portfolio-title div h2, .hover-style-5 .portfolio-item .portfolio-box .portfolio-title div h3, .hover-style-5 .portfolio-item .portfolio-box .portfolio-title div h4, .hover-style-5 .portfolio-item .portfolio-box .portfolio-title div h5, .hover-style-5 .portfolio-item .portfolio-box .portfolio-title div h6 {
-  color: #141414;
+  color: #ffffff;
 }
 
 .hover-style-5 .portfolio-item .portfolio-box .portfolio-title div span {
@@ -11130,7 +11131,7 @@ div[class^='bg-black'] .owl-carousel .owl-dots .owl-dot:hover:before, div[class^
 }
 
 .navbar-shrink.navbar-absolute .fullscreen-toggle-btn .lines, .navbar-shrink.navbar-absolute .fullscreen-toggle-btn .lines:before, .navbar-shrink.navbar-absolute .fullscreen-toggle-btn .lines:after {
-  background: #000;
+  background: #fff;
 }
 
 .fullscreen-menu {
